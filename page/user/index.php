@@ -38,7 +38,7 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
  
   <!-- Scripts -->
-	<title>Project Rosiq</title>
+	<title>Project PKL ROSIQ AKMAL</title>
 </head>
 <body>
 	
