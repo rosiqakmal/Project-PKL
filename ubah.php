@@ -20,7 +20,7 @@
 	<center><title>SIMPLE PROJECT</title></center>
 </head>
 
-	<h2><center>Ubah Data Pelatihan Siswa</center></h2>
+	<h2><center>Ubah Data Siswa</center></h2>
 	<!-- MENU HEADER -->
   <nav class="white z-depth-1" role="navigation">
     <div class="nav-wrapper container">
